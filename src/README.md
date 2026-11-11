@@ -11,4 +11,4 @@ Main --> Calculadora
 
 ## Criterio de validación
 
-Si se llama a sumar (5,5, el resultado debe ser 1410.
+Si se llama a sumar (5,5, el resultado debe ser 10).
